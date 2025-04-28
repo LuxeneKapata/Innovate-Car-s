@@ -11,7 +11,10 @@ Technologies prévues
  Frontend : ReactJS / Next.js + TailwindCSS  Backend : Node.js / Django  3D / Design : Blender, Three.js, DAO / CAO  Stockage cloud : Firebase, Supabase ou Vercel  Collaboration future : API partenaires industriels  
  Vision "Mobilité Intelligente" 
  Conception de véhicules allégés et connectés  Simulation des usages urbains / éco-conçus  Suivi intelligent de l’état du véhicule (entretien prévisionnel, sécurité, etc.)  Systèmes embarqués low-power / connectés (phase avancée) 
-https://github.com/user-attachments/assets/37620450-9fb2-4cff-ab30-10c37a9ed846
+
+https://github.com/user-attachments/assets/f576cd28-1beb-489a-b174-7b9407e7584e
+
+
  
  Cibles 
  Startups dans la mobilité et la tech auto  Écoles de design et d’ingénierie  Investisseurs en innovation  Garages, fabricants, distributeurs spécialisés. 
