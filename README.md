@@ -4,8 +4,6 @@ https://github.com/user-attachments/assets/37620450-9fb2-4cff-ab30-10c37a9ed846
 
 
 
-https://github.com/user-attachments/assets/b8199db1-bcdb-4fd8-bde2-e0357d7639d4
-
 # Innovate-Car-s
 INNOVATE-CAR’S – Projet de conception automobile intelligente &amp; mobilité numérique.
 INNOVATE-CAR’S – Projet de conception automobile intelligente & mobilité numérique 
