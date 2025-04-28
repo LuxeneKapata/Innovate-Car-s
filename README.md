@@ -13,3 +13,5 @@ Technologies prévues
  
  Cibles 
  Startups dans la mobilité et la tech auto  Écoles de design et d’ingénierie  Investisseurs en innovation  Garages, fabricants, distributeurs spécialisés. 
+![PLATEFORME DESIGN-INNOVATE-CAR'S](https://github.com/user-attachments/assets/da9737ec-78f8-45bb-b282-c56df1b255b3)
+
